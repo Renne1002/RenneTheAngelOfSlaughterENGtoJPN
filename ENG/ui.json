@@ -1,0 +1,22 @@
+{
+  "RenneTheAngelOfSlaughter:RecallAnyCardsAction": {
+    "TEXT": [
+      "山札の一番上に置くカードを選択してください。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:OrbalArtFromDeckToHandAction": {
+    "TEXT": [
+      "手札に加える #yアーツ を選択してください。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:SelectOrbalArt": {
+    "TEXT": [
+      "#yアーツ を選択"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:SelectUseBoost": {
+    "TEXT": [
+      "ブーストするかどうかを選択"
+    ]
+  }
+}

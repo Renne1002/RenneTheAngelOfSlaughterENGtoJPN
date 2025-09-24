@@ -1,0 +1,503 @@
+{
+  "RenneTheAngelOfSlaughter:UseNormal": {
+    "NAME": "通常",
+    "DESCRIPTION": "通常プレイ"
+  },
+  "RenneTheAngelOfSlaughter:UseBoost": {
+    "NAME": "ブースト",
+    "DESCRIPTION": "*CP を消費して強化"
+  },
+  "RenneTheAngelOfSlaughter:ArcScythe": {
+    "NAME": "つむじ斬り",
+    "DESCRIPTION": "!D! ダメージを与える。 NL rennetheangelofslaughter:死の刻印 !M! を与える。"
+  },
+  "RenneTheAngelOfSlaughter:Strike": {
+    "NAME": "ストライク",
+    "DESCRIPTION": "!D! ダメージを与える。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。"
+  },
+  "RenneTheAngelOfSlaughter:FakeMorale": {
+    "NAME": "偽：闘志",
+    "DESCRIPTION": "rennetheangelofslaughter:気力 !M! を得る。 NL rennetheangelofslaughter:ブースト 20： ブロック !B! を得る。"
+  },
+  "RenneTheAngelOfSlaughter:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "!B! ブロック を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。"
+  },
+  "RenneTheAngelOfSlaughter:Analyze": {
+    "NAME": "アナライズ",
+    "DESCRIPTION": "敵が 筋力 1を失う。 NL 脱力 2を与える。 NL *CP 20を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "敵が 筋力 2を失う。 NL 脱力 3を与える。 NL *CP 30を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:CalamityThrow": {
+    "NAME": "カラミティスロー",
+    "DESCRIPTION": "敵全体に !D! ダメージと NL rennetheangelofslaughter:死の刻印 !M! を与える。 NL rennetheangelofslaughter:ブースト 25： NL ダメージが2倍になる。"
+  },
+  "RenneTheAngelOfSlaughter:BloodySlaughter": {
+    "NAME": "キル・ザ・キャット",
+    "DESCRIPTION": "このターン、 カードを NL プレイするたび NL 敵全体に rennetheangelofslaughter:死の刻印 !M! NL を与える。"
+  },
+  "RenneTheAngelOfSlaughter:TeaParty": {
+    "NAME": "ティーパーティ",
+    "DESCRIPTION": "*CP !M! を得る。 NL *CP の5分の1に等しい NL ブロックを得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "*CP !M! を得る。 NL *CP の5分の1に等しい NL ブロックを得る。"
+  },
+  "RenneTheAngelOfSlaughter:Parry": {
+    "NAME": "パリィ",
+    "DESCRIPTION": "最大 !M! 枚のカードを NL 捨てる。 NL この方法で捨てた NL 枚数 x !B! ブロック を得る。"
+  },
+  "RenneTheAngelOfSlaughter:BloodCircle": {
+    "NAME": "ブラッドサークル",
+    "DESCRIPTION": "ランダムな敵に !D! ダメージと rennetheangelofslaughter:死の刻印 3 を与える。 NL これを !M! 回行う。 NL rennetheangelofslaughter:ブースト 30： NL 与える rennetheangelofslaughter:死の刻印 が NL 2倍になる。"
+  },
+  "RenneTheAngelOfSlaughter:PuppetsControl": {
+    "NAME": "マリオネット",
+    "DESCRIPTION": "ブロック !B! を得る。 NL 山札から !M! 枚の NL カードを捨て札に NL 置く。 NL カードを1枚引く。",
+    "UPGRADE_DESCRIPTION": "ブロック !B! を得る。 NL 山札から !M! 枚のカードを捨て札に NL 置く。 NL カードを1枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:LayAbout": {
+    "NAME": "乱斬り",
+    "DESCRIPTION": "ランダムな敵に NL !D! ダメージを!M! 回 NL 与える。"
+  },
+  "RenneTheAngelOfSlaughter:SeptiumBullets": {
+    "NAME": "偽セプチウム弾",
+    "DESCRIPTION": "!D! ダメージを与える。 NL ランダムなデバフ NL を与える。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:FakeKaempfer": {
+    "NAME": "偽：ケンプファー",
+    "DESCRIPTION": "弱体 !M! と 脱力 !M! を NL 与える。 NL rennetheangelofslaughter:ブースト 20： NL [E] を得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeStampede": {
+    "NAME": "偽：スタンピード",
+    "DESCRIPTION": "!D! ダメージを!M! 回 NL 与える。 NL rennetheangelofslaughter:気力 を消費しない。 NL rennetheangelofslaughter:ブースト 25： NL ダメージをもう1回 NL 与える。"
+  },
+  "RenneTheAngelOfSlaughter:FakeSpiralEdge": {
+    "NAME": "偽：スパイラルエッジ",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 脱力 !M! を与える。 NL rennetheangelofslaughter:ブースト 20： NL 脱力 を与える対象が NL 敵全体になる。"
+  },
+  "RenneTheAngelOfSlaughter:FakeHappyTrigger": {
+    "NAME": "偽：ハッピートリガー",
+    "DESCRIPTION": "!B! ブロック を得る。 NL rennetheangelofslaughter:気力 !M! を得る。 NL rennetheangelofslaughter:ブースト 20： NL !B! ブロック を得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeFoxTail": {
+    "NAME": "偽：フォックステイル",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 50%の確率で NL !M! ゴールドを得る。 NL rennetheangelofslaughter:ブースト 30： NL カードを1枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:FakeFlicker": {
+    "NAME": "偽：絶影",
+    "DESCRIPTION": "!D! ダメージを与える。 NL rennetheangelofslaughter:死の刻印 !M! を与える。 NL カードを1枚引く。 NL rennetheangelofslaughter:ブースト 30： NL 効果をもう一度 NL 発動する。",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 rennetheangelofslaughter:死の刻印 !M! を与える。 NL カードを2枚引く。 NL rennetheangelofslaughter:ブースト 30： NL 効果をもう一度 NL 発動する。"
+  },
+  "RenneTheAngelOfSlaughter:FakeComposure": {
+    "NAME": "偽：養命功",
+    "DESCRIPTION": "rennetheangelofslaughter:追加HP !M! を得る。 NL !B! ブロック を得る。 NL 廃棄 NL NL rennetheangelofslaughter:ブースト 30： NL HPを !M! 回復する。"
+  },
+  "RenneTheAngelOfSlaughter:FreezingMeatballs": {
+    "NAME": "冷血ミートボール",
+    "DESCRIPTION": "敵全体に NL !D! ダメージを与える。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:Willful": {
+    "NAME": "計画通り",
+    "DESCRIPTION": "*CP を得るたび、 NL ランダムな敵に NL rennetheangelofslaughter:死の刻印 !M! を与える。",
+    "UPGRADE_DESCRIPTION": "天賦 NL *CP を得るたび、 NL ランダムな敵に NL rennetheangelofslaughter:死の刻印 !M! を与える。"
+  },
+  "RenneTheAngelOfSlaughter:ScytheDance": {
+    "NAME": "踊りましょう♪",
+    "DESCRIPTION": "rennetheangelofslaughter:死の刻印 !M! を与える。 NL !B! ブロック を得る。"
+  },
+  "RenneTheAngelOfSlaughter:DeathDash": {
+    "NAME": "駆ける死",
+    "DESCRIPTION": "敵全体に rennetheangelofslaughter:死の刻印 に NL 等しいダメージを NL 与える。 NL rennetheangelofslaughter:ブースト 80： NL ダメージを2回与える。"
+  },
+  "RenneTheAngelOfSlaughter:EpCharge": {
+    "NAME": "EPチャージ",
+    "DESCRIPTION": "戦闘終了まで手札の NL rennetheangelofslaughter:アーツ 1枚のコストを NL 0にする。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "手札に rennetheangelofslaughter:アーツ がない..."
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Hoax": {
+    "NAME": "いたずら",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL 手札からカードを1枚 NL 山札の一番上に置く。"
+  },
+  "RenneTheAngelOfSlaughter:HideAndSeek": {
+    "NAME": "かくれんぼ",
+    "DESCRIPTION": "敏捷性 !M! を得る。 NL この戦闘中、 NL このカードのコストが NL 1増加する。"
+  },
+  "RenneTheAngelOfSlaughter:LeisureTime": {
+    "NAME": "つかの間の幸福",
+    "DESCRIPTION": "プレートアーマー !M! NL を得る。 NL 捨て札からカードを NL 1枚手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "プレートアーマー !M! NL を得る。 NL 捨て札からカードを NL 1枚手札に加える。"
+  },
+  "RenneTheAngelOfSlaughter:CelestialBalm": {
+    "NAME": "アセラスの薬",
+    "DESCRIPTION": "rennetheangelofslaughter:追加HP !M! を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:KittySuit": {
+    "NAME": "キャット・メイド",
+    "DESCRIPTION": "次のターンに NL X枚のカードを引き NL Xの [E] を得る。 NL Xはこのターン防御できずに NL ダメージを受けた回数。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 次のターンに NL X枚のカードを引き NL Xの [E] を得る。 NL Xはこのターン防御できずに NL ダメージを受けた回数。"
+  },
+  "RenneTheAngelOfSlaughter:SchwarzSilk": {
+    "NAME": "シュバルツシルク",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ のダメージが NL 50% 増加する。"
+  },
+  "RenneTheAngelOfSlaughter:ZeramCapsule": {
+    "NAME": "ゼラムカプセル",
+    "DESCRIPTION": "失ったHPに等しい NL rennetheangelofslaughter:追加HP を得る。 NL *CP !M! を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:TomatrioSandwich": {
+    "NAME": "トマトリオサンド",
+    "DESCRIPTION": "!B! ブロック を得る。 NL *CP !M! を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "天賦 NL !B! ブロック を得る。 NL *CP !M! を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:NemesisRipper": {
+    "NAME": "ネメシスリップ",
+    "DESCRIPTION": "rennetheangelofslaughter:死の刻印 による NL ダメージが !M! 増加する。",
+    "UPGRADE_DESCRIPTION": "天賦 NL rennetheangelofslaughter:死の刻印 による NL ダメージが !M! 増加する。"
+  },
+  "RenneTheAngelOfSlaughter:NemesisParty": {
+    "NAME": "ネメシス・パーティ",
+    "DESCRIPTION": "敵全体に !D! ダメージを NL 与える。 NL rennetheangelofslaughter:死の刻印 が !M! より多い敵に NL !D! ダメージを与える。 NL rennetheangelofslaughter:Sブースト ： NL 敵全体に rennetheangelofslaughter:死の刻印 20 を NL 与える。"
+  },
+  "RenneTheAngelOfSlaughter:NoirReaper": {
+    "NAME": "ノワールリッパー",
+    "DESCRIPTION": "!D! ダメージを与える。 NL rennetheangelofslaughter:死の刻印 の半分に NL 等しい 弱体 を与える。 NL rennetheangelofslaughter:ブースト 15：  NL 敵の rennetheangelofslaughter:死の刻印 を NL 1.5倍にする。"
+  },
+  "RenneTheAngelOfSlaughter:KittysTechnique": {
+    "NAME": "仔猫の技術",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ をプレイ時、 NL このターンの間 NL 手札のランダムな NL カード1枚の NL コストが0になる。",
+    "UPGRADE_DESCRIPTION": "天賦 NL rennetheangelofslaughter:アーツ をプレイ時、 NL このターンの間 NL 手札のランダムな NL カード1枚の NL コストが0になる。"
+  },
+  "RenneTheAngelOfSlaughter:FakeEnergyCircle": {
+    "NAME": "偽：エナジーサークル",
+    "DESCRIPTION": "脆弱化 と 脱力 を NL 除去する。 NL !B! ブロック を得る。 NL rennetheangelofslaughter:ブースト 40： NL *CP 30 を得る。 NL 次のターン、 !B! ブロック を得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeGullveigPierce": {
+    "NAME": "偽：グルヴェイグピアス",
+    "DESCRIPTION": "!D! ダメージを与える。 NL 防御されなかった NL ダメージ分 rennetheangelofslaughter:追加HP を得る。 NL rennetheangelofslaughter:ブースト 30： NL 敵全体にダメージを NL 与える。"
+  },
+  "RenneTheAngelOfSlaughter:FakeSacrificeArrow": {
+    "NAME": "偽：サクリファイスアロー",
+    "DESCRIPTION": "!D! ダメージを与える。 NL rennetheangelofslaughter:気力 !M! を得る。 NL rennetheangelofslaughter:ブースト 65： NL *CP 30 を得る。 NL rennetheangelofslaughter:闘魂 2を得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeNightmareShuffle": {
+    "NAME": "偽：ナイトメアシャッフル",
+    "DESCRIPTION": "敵のランダムなバフを NL 1つ除去する。 NL 可能な場合、 NL 同じバフを得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:FakeBurningHeart": {
+    "NAME": "偽：バーニングハート",
+    "DESCRIPTION": "[E] [E] を得る。 NL このターン、追加で NL カードを引くことができない。 NL rennetheangelofslaughter:ブースト 45： NL このターン、通常通り NL カードを引くことができる。",
+    "UPGRADE_DESCRIPTION": "[E] [E] [E] を得る。 NL このターン、追加で NL カードを引くことができない。 NL rennetheangelofslaughter:ブースト 45： NL このターン、通常通り NL カードを引くことができる。"
+  },
+  "RenneTheAngelOfSlaughter:FakeHolyBlessing": {
+    "NAME": "偽：ホーリーブレス",
+    "DESCRIPTION": "!B! ブロック を得る。 NL [E] を得る。 NL rennetheangelofslaughter:ブースト 40： NL *CP 50 を得る。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL [E] [E] を得る。 NL rennetheangelofslaughter:ブースト 40： NL *CP 50 を得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeMagicBlade": {
+    "NAME": "偽：マジックナイフ",
+    "DESCRIPTION": "保留 NL !D! ダメージを与える。 NL rennetheangelofslaughter:死の刻印 !M! と 弱体 !M! を与える。 NL 廃棄 NL rennetheangelofslaughter:ブースト 25： rennetheangelofslaughter:気力 !M! を得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeRazorHurricane": {
+    "NAME": "偽：レイザーバレッド",
+    "DESCRIPTION": "保留 NL !D! ダメージを与える。 NL 次のターン、 [E] を得る。 NL rennetheangelofslaughter:ブースト 30： NL 次のターン、 NL カードを !M! 枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:FakeLuminousOgreSlash": {
+    "NAME": "偽：光鬼斬",
+    "DESCRIPTION": "!D! ダメージを与える。 NL [E] を得る。 NL rennetheangelofslaughter:ブースト 35： NL エセリアル と 廃棄 を NL 持つこのカードのコピー NL 1枚を手札に加える。"
+  },
+  "RenneTheAngelOfSlaughter:FakeLuminousOgreSlashCopy": {
+    "NAME": "偽：光鬼斬",
+    "DESCRIPTION": "!D! ダメージを与える。 NL [E] を得る。 NL エセリアル NL 廃棄 NL rennetheangelofslaughter:ブースト 35： NL このカードのコピー NL 1枚を手札に加える。"
+  },
+  "RenneTheAngelOfSlaughter:FakeDreamingBellToll": {
+    "NAME": "偽：幻術・夢見の鈴音",
+    "DESCRIPTION": "保留 NL 敵全体に 弱体 !M! を NL 与える。 NL rennetheangelofslaughter:ブースト 35： NL 敵全体が 筋力 !M! を失う。"
+  },
+  "RenneTheAngelOfSlaughter:FakeMoonlightButterflies": {
+    "NAME": "偽：月光蝶",
+    "DESCRIPTION": "無形 !M! を得る。 NL エセリアル NL 廃棄 NL rennetheangelofslaughter:ブースト 40： NL 次のターン、 NL アタックのダメージが NL 2倍になる。",
+    "UPGRADE_DESCRIPTION": "無形 !M! を得る。 NL 廃棄 NL rennetheangelofslaughter:ブースト 40： NL 次のターン、 NL アタックのダメージが NL 2倍になる。"
+  },
+  "RenneTheAngelOfSlaughter:FakePetalDance": {
+    "NAME": "偽：風花陣",
+    "DESCRIPTION": "ターン終了まで、 NL 筋力 !M! を得て、 NL 敏捷性 3 を失う。 NL rennetheangelofslaughter:ブースト 20： NL このターン失う NL 敏捷性 は1。"
+  },
+  "RenneTheAngelOfSlaughter:HospitableHostess": {
+    "NAME": "優雅なもてなし",
+    "DESCRIPTION": "rennetheangelofslaughter:気力 !M! を得る。 NL このターン、次の NL rennetheangelofslaughter:アーツ を2回プレイする。 NL 廃棄 NL rennetheangelofslaughter:ブースト 45： NL カードを3枚引く。",
+    "UPGRADE_DESCRIPTION": "rennetheangelofslaughter:気力 !M! を得る。 NL このターン、次の NL rennetheangelofslaughter:アーツ を2回プレイする。 NL rennetheangelofslaughter:ブースト 45： NL カードを3枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:SituationAnalysis": {
+    "NAME": "分析",
+    "DESCRIPTION": "山札から最大 !M! 枚の NL カードを選んで NL 捨てる。 NL カードを !M! 枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:Genius": {
+    "NAME": "天才",
+    "DESCRIPTION": "3枚の rennetheangelofslaughter:アーツ から1枚 NL 選んで手札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "3枚の rennetheangelofslaughter:アーツ から1枚 NL 選んで手札に加える。 NL このターン、 NL そのコストは0。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:Raid": {
+    "NAME": "急襲",
+    "DESCRIPTION": "筋力 !M! を得る。 NL 捨て札から最大 !M! 枚の NL カードを山札の上に NL 置く。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "筋力 !M! を得る。 NL 捨て札から最大 !M! 枚の NL カードを山札の上に NL 置く。"
+  },
+  "RenneTheAngelOfSlaughter:SorrowfulMemory": {
+    "NAME": "悲しい記憶",
+    "DESCRIPTION": "カードを !M! 枚引く。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:SelfDefense": {
+    "NAME": "感じるままに",
+    "DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロック を得る。 NL *心を開いて NL を1枚山札に加える。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "!D! ダメージを与える。 NL !B! ブロック を得る。 NL *心を開いて+ NL を1枚山札に加える。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:OpenedUp": {
+    "NAME": "心を開いて",
+    "DESCRIPTION": "保留 NL [E] [E] [E] を得る。 NL カードを !M! 枚引く。 NL *次の軌跡へ を1枚 NL 山札に加える。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:NewTrails": {
+    "NAME": "次の軌跡へ",
+    "DESCRIPTION": "ターン開始時、 NL rennetheangelofslaughter:気力 !M! を得る。 NL ターン終了時、 NL 8 ブロック を得る。"
+  },
+  "RenneTheAngelOfSlaughter:Escape": {
+    "NAME": "脱出",
+    "DESCRIPTION": "ブロック を NL プレートアーマー に NL 変換する。"
+  },
+  "RenneTheAngelOfSlaughter:Calculation": {
+    "NAME": "計算",
+    "DESCRIPTION": "!B! ブロック を得る。 NL 捨て札から最大 !M! 枚の NL カードを山札の上に NL 置く。",
+    "UPGRADE_DESCRIPTION": "!B! ブロック を得る。 NL 捨て札から最大 !M! 枚の NL カードを山札の上に NL 置く。"
+  },
+  "RenneTheAngelOfSlaughter:ProxyPuppet": {
+    "NAME": "身代わりマペット",
+    "DESCRIPTION": "このターン最初の NL 戦闘不能時、 NL 最大HPの !M! %で NL 復活しこのパワーを NL 失う。 NL この効果は重複しない。"
+  },
+  "RenneTheAngelOfSlaughter:AgentsOfOuroboros": {
+    "NAME": "身喰らう蛇の執行者",
+    "DESCRIPTION": "天賦 NL 戦闘中の敵1体につき NL 筋力 1 を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "天賦 NL 戦闘中の敵1体につき NL 筋力 1 と NL プレートアーマー 1 を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:FoolsEmblem": {
+    "NAME": "道化の紋章",
+    "DESCRIPTION": "ターン開始時、 NL [E] を得る。 NL 筋力 と 敏捷性 を !M! 失う。"
+  },
+  "RenneTheAngelOfSlaughter:CalamitySphere": {
+    "NAME": "カラミティスフィア",
+    "DESCRIPTION": "rennetheangelofslaughter:死の刻印 のダメージ NL が発動するたび、 NL カードを !M! 枚引く。",
+    "UPGRADE_DESCRIPTION": "天賦 NL rennetheangelofslaughter:死の刻印 のダメージ NL が発動するたび、 NL カードを !M! 枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:CrimsonEye": {
+    "NAME": "クリムゾンアイ",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ をプレイ時、 NL *CP 10 を得て NL カードを1枚引く。 NL この効果は重複しない。"
+  },
+  "RenneTheAngelOfSlaughter:ZodiacCode": {
+    "NAME": "ゾディアックコード",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ をプレイ時、 NL !M! ブロック を得る。 NL rennetheangelofslaughter:ブースト 50： NL 筋力 と 敏捷性 を1得る。"
+  },
+  "RenneTheAngelOfSlaughter:TigerHeart": {
+    "NAME": "タイガーハート",
+    "DESCRIPTION": "*アタック をプレイ時、 NL ターン終了まで NL 敏捷性 1を得る。 NL *スキル をプレイ時、 NL ターン終了まで  NL 筋力 1を得る。"
+  },
+  "RenneTheAngelOfSlaughter:PaterMater": {
+    "NAME": "パテル＝マテル",
+    "DESCRIPTION": "rennetheangelofslaughter:追加HP !M! を得る。 NL rennetheangelofslaughter:パテル＝マテル を召喚する。 NL *リバイバルレーザー 、 *スラストチャージ 、 *クラッシュクロー 、 *ダブルバスターキャノン NL を山札に加える。",
+    "EXTENDED_DESCRIPTION": [
+      "来て、 NL パテル＝マテル！"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:RevivalLazer": {
+    "NAME": "リバイバルレーザー",
+    "DESCRIPTION": "rennetheangelofslaughter:パテル＝マテル が NL フィールドにいる間 NL のみ使用可能。 NL 再生 と rennetheangelofslaughter:気力 を !M! 得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      "パテル＝マテルがいない..."
+    ]
+  },
+  "RenneTheAngelOfSlaughter:ThrustCharge": {
+    "NAME": "スラストチャージ",
+    "DESCRIPTION": "rennetheangelofslaughter:パテル＝マテル が NL フィールドにいる間 NL のみ使用可能。 NL 敵全体に !D! ダメージを NL 与える。",
+    "EXTENDED_DESCRIPTION": [
+      "パテル＝マテルがいない..."
+    ]
+  },
+  "RenneTheAngelOfSlaughter:ClashClaw": {
+    "NAME": "クラッシュクロー",
+    "DESCRIPTION": "rennetheangelofslaughter:パテル＝マテル が NL フィールドにいる間 NL のみ使用可能。 NL !D! ダメージを与える。 NL rennetheangelofslaughter:死の刻印 !M! を与える。",
+    "EXTENDED_DESCRIPTION": [
+      "パテル＝マテルがいない..."
+    ]
+  },
+  "RenneTheAngelOfSlaughter:DoubleBusterCannon": {
+    "NAME": "ダブルバスターキャノン",
+    "DESCRIPTION": "rennetheangelofslaughter:パテル＝マテル が NL フィールドにいる間 NL のみ使用可能。 NL 敵全体に !D! ダメージを NL !M! 回与える。 NL 廃棄 NL rennetheangelofslaughter:Sブースト ： NL ダメージが2倍になる。",
+    "EXTENDED_DESCRIPTION": [
+      "パテル＝マテルがいない...",
+      "さぁ、 NL なぎ払いなさい！"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Rennede": {
+    "NAME": "レ・ラナンデス",
+    "DESCRIPTION": "敵全体にXダメージと NL rennetheangelofslaughter:死の刻印 X を NL X 回与える。 NL rennetheangelofslaughter:Sブースト ： NL X が1増加する。",
+    "UPGRADE_DESCRIPTION": "敵全体にX+1ダメージと NL rennetheangelofslaughter:死の刻印 X+1 を NL X 回与える。 NL rennetheangelofslaughter:Sブースト ： NL X が1増加する。"
+  },
+  "RenneTheAngelOfSlaughter:FakeSatelliteBeam": {
+    "NAME": "偽：サテライトビーム",
+    "DESCRIPTION": "敵全体に !D! ダメージを与える。 NL この戦闘でプレイした NL rennetheangelofslaughter:アーツ 1枚につき [E] が NL 1少なくなる。 NL rennetheangelofslaughter:Sブースト ： NL 防御されなかったダメージ分の NL ブロックを得る。"
+  },
+  "RenneTheAngelOfSlaughter:FakeZeroStorm": {
+    "NAME": "偽：零ストーム",
+    "DESCRIPTION": "敵全体に !D! ダメージを NL 与える。 NL 攻撃を予定していない NL 敵全体を スタン させる。 NL 廃棄 NL rennetheangelofslaughter:ブースト 75： NL 敵全体を スタン させる。"
+  },
+  "RenneTheAngelOfSlaughter:FakeQilingong": {
+    "NAME": "偽：麒麟甲",
+    "DESCRIPTION": "筋力 、 敏捷性 、 rennetheangelofslaughter:気力 、 NL プレートアーマー を NL X 得る。 NL 廃棄 NL rennetheangelofslaughter:ブースト 60： NL X が1増加する。",
+    "UPGRADE_DESCRIPTION": "筋力 、 敏捷性 、 rennetheangelofslaughter:気力 、 NL プレートアーマー を NL X 得る。 NL [E] を得る。 NL 廃棄 NL rennetheangelofslaughter:ブースト 60： NL X が1増加する。"
+  },
+  "RenneTheAngelOfSlaughter:AbaddonPotluck": {
+    "NAME": "地獄極楽鍋(闇鍋)",
+    "DESCRIPTION": "!D! ダメージを受ける。 NL エナジーを NL 初期エナジー値まで NL 補充する。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:TheGirlFromParadise": {
+    "NAME": "楽園の少女",
+    "DESCRIPTION": "HP を10失い、 rennetheangelofslaughter:追加HP !M! を得る。 NL *悪魔化 、 *死霊化 、 NL *反響化 、 *神人化 を NL 山札に加える。この戦闘中、 NL それらのコストは0。 NL ターンを終了する。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "HP を10失い、 rennetheangelofslaughter:追加HP !M! を得る。 NL *悪魔化+ 、 *死霊化+ 、 NL *反響化+ 、 *神人化+ を NL 山札に加える。この戦闘中、 NL それらのコストは0。 NL ターンを終了する。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:Breach": {
+    "NAME": "突破",
+    "DESCRIPTION": "このターン、 NL あなたのすべての NL 手札のコストを NL !M! 減らす。"
+  },
+  "RenneTheAngelOfSlaughter:PullTheStrings": {
+    "NAME": "糸を引く者",
+    "DESCRIPTION": "山札からカードを NL !M! 枚手札に加える。 NL このターン、その NL コストを1下げる。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "山札からカードを NL !M! 枚手札に加える。 NL このターン、その NL コストを1下げる。"
+  },
+  "RenneTheAngelOfSlaughter:GladiatorHeadband": {
+    "NAME": "闘魂ハチマキ",
+    "DESCRIPTION": "攻撃をする、または NL 受けるたび追加で NL *CP !M! を得る。"
+  },
+  "RenneTheAngelOfSlaughter:GladiatorBelt": {
+    "NAME": "闘魂ベルト",
+    "DESCRIPTION": "ターン開始時、 NL *CP !M! を得る。"
+  },
+  "RenneTheAngelOfSlaughter:Athelas": {
+    "NAME": "アセラス",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL rennetheangelofslaughter:追加HP !M! を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:Ascension": {
+    "NAME": "アセンション",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。 NL 戦闘終了まで手札の NL カード1枚を NL アップグレードする。"
+  },
+  "RenneTheAngelOfSlaughter:ArcProminence": {
+    "NAME": "アークプロミネンス",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 敵全体に !D! ダメージを NL !M! 回与える。"
+  },
+  "RenneTheAngelOfSlaughter:EarthLance": {
+    "NAME": "アースランス",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを NL !M! 回与える。"
+  },
+  "RenneTheAngelOfSlaughter:AirStrike": {
+    "NAME": "エアストライク",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。"
+  },
+  "RenneTheAngelOfSlaughter:Aerial": {
+    "NAME": "エアリアル",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 敵全体に !D! ダメージを NL !M! 回与える。"
+  },
+  "RenneTheAngelOfSlaughter:GaiaShield": {
+    "NAME": "ガイアシールド",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL バッファー !M! を得る。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "rennetheangelofslaughter:アーツ NL バッファー !M! を得る。"
+  },
+  "RenneTheAngelOfSlaughter:Curia": {
+    "NAME": "キュリア",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL すべてのデバフを NL 除去する。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:Crest": {
+    "NAME": "クレスト",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !B! ブロック を !M! 回得る。"
+  },
+  "RenneTheAngelOfSlaughter:ClockUp": {
+    "NAME": "クロックアップ",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL カードを !M! 枚引く。 NL 次のターン、 [E] を得る。"
+  },
+  "RenneTheAngelOfSlaughter:CycloneNapalm": {
+    "NAME": "サイクロンナパーム",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを NL !M! 回与える。"
+  },
+  "RenneTheAngelOfSlaughter:SilentCross": {
+    "NAME": "サイレントクロス",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 攻撃を予定していない NL 敵全体を スタン NL させる。 NL 廃棄",
+    "UPGRADE_DESCRIPTION": "rennetheangelofslaughter:アーツ NL 攻撃を予定していない NL 敵全体を スタン NL させる。"
+  },
+  "RenneTheAngelOfSlaughter:ShadowSpear": {
+    "NAME": "シャドウスピア",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。 NL rennetheangelofslaughter:死の刻印 !M! を与える。"
+  },
+  "RenneTheAngelOfSlaughter:SilverThorn": {
+    "NAME": "シルバーソーン",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。 NL ランダムなバフを NL 除去する。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:Sylpharion": {
+    "NAME": "シルファリオン",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !B! ブロック を得る。 NL カードを !M! 枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:GenesicBarrier": {
+    "NAME": "ジェネシックバリア",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL アーティファクト !M! を NL 得る。 NL 廃棄 NL エセリアル",
+    "UPGRADE_DESCRIPTION": "rennetheangelofslaughter:アーツ NL アーティファクト !M! を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:SoulBlur": {
+    "NAME": "ソウルブラー",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。 NL カードを !M! 枚引く。"
+  },
+  "RenneTheAngelOfSlaughter:Zodiac": {
+    "NAME": "ゾディアック",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 筋力 !M! を得る。 NL 敏捷性 !M! を得る。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:DarkMatterEx": {
+    "NAME": "ダークマター改",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 敵全体に !D! ダメージと NL 弱体 !M! と 脱力 !M! を NL 与える。"
+  },
+  "RenneTheAngelOfSlaughter:Tear": {
+    "NAME": "ティア",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL HP を !M! 回復する。 NL 廃棄"
+  },
+  "RenneTheAngelOfSlaughter:DevastationBlast": {
+    "NAME": "テンペストフォール",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを NL X回与える。Xはこの戦闘で NL *戦術オーブメント を NL 使用した回数。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （回数: ",
+      "）"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:DeathScream": {
+    "NAME": "デス・スクリーム",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 敵全体に !D! ダメージと NL rennetheangelofslaughter:死の刻印 !M! を与える。"
+  },
+  "RenneTheAngelOfSlaughter:Forte": {
+    "NAME": "フォルテ",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 筋力 !M! を得る。 NL このターン終了時に NL 筋力 !M! を失う。"
+  },
+  "RenneTheAngelOfSlaughter:Fortuna": {
+    "NAME": "フォルトゥナ",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL このターン、 rennetheangelofslaughter:アーツ を NL プレイするたび、 NL [E] を得る。",
+    "UPGRADE_DESCRIPTION": "rennetheangelofslaughter:アーツ NL このターン、 rennetheangelofslaughter:アーツ を NL プレイするたび、 NL [E] を得る。 NL [E] を得る。"
+  },
+  "RenneTheAngelOfSlaughter:BlueImpact": {
+    "NAME": "ブルーインパクト",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。"
+  },
+  "RenneTheAngelOfSlaughter:Petrosphere": {
+    "NAME": "ペトロスフィア",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL 敵全体に NL スロー を与える。"
+  },
+  "RenneTheAngelOfSlaughter:Impassion": {
+    "NAME": "メルティライズ",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL rennetheangelofslaughter:闘魂 !M! を得る。"
+  },
+  "RenneTheAngelOfSlaughter:RagnaBlast": {
+    "NAME": "ラグナブラスト",
+    "DESCRIPTION": "rennetheangelofslaughter:アーツ NL !D! ダメージを与える。 NL 敵が攻撃を予定して NL いない場合、 NL 敵が 筋力 !M! を失う。"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "RenneTheAngelOfSlaughter:DeathblowMarkPower": {
+    "NAME": "死の刻印",
+    "DESCRIPTIONS": [
+      "10スタック毎に #b%d HPを失う。スタックが100に達すると #r即座に死亡する。 NL 現在： #g%d"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:CraftPointPower": {
+    "NAME": "CP",
+    "DESCRIPTIONS": [
+      "攻撃をする、または受けるたび、 #b5 の #yCP を得る。 NL 最大CPは200で、戦闘後も持続する。 NL 現在： #g%d #yCP",
+      "CPが上限に達しました！"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:BloodySlaughterPower": {
+    "NAME": "キル・ザ・キャット",
+    "DESCRIPTIONS": [
+      "このターン、カードをプレイするたび、敵全体に #y死の刻印 %d を与える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:WillfulPower": {
+    "NAME": "計画通り",
+    "DESCRIPTIONS": [
+      "#yCP を得る度に、ランダムな敵に #y死の刻印 %d を与える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:NemesisRipperPower": {
+    "NAME": "ネメシスリップ",
+    "DESCRIPTIONS": [
+      "#y死の刻印 によるダメージが #b%d 増加する。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:KittySuitPower": {
+    "NAME": "キャット・メイド",
+    "DESCRIPTIONS": [
+      "次のターンX枚のカードを引きXの [E] を得る。 NL Xはこのターンブロックされなかったダメージを受けた回数 NL 現在： #g%d"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:ProxyPuppetPower": {
+    "NAME": "身代わりマペット",
+    "DESCRIPTIONS": [
+      "このターン最初の戦闘不能時、最大HPの #b%d %%で復活し、このパワーを失う。この効果は重複しない。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:SchwarzSilkPower": {
+    "NAME": "シュバルツシルク",
+    "DESCRIPTIONS": [
+      "#yアーツ のダメージが #b%d %% 増加する。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:DoubleOrbalArtPower": {
+    "NAME": "ダブルアーツ",
+    "DESCRIPTIONS": [
+      "このターン、次の #b%d 枚の #yアーツ を2回プレイする。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:KittysTechniquePower": {
+    "NAME": "仔猫の技術",
+    "DESCRIPTIONS": [
+      "#yアーツ をプレイ時、このターンの間手札のランダムなカード1枚のコストが0になる。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:TigerHeartPower": {
+    "NAME": "タイガーハート",
+    "DESCRIPTIONS": [
+      "#yアタック をプレイ時、ターン終了まで #y敏捷性 1を得る。 #yスキル をプレイ時、ターン終了まで #y筋力 1を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:CrimsonEyePower": {
+    "NAME": "クリムゾンアイ",
+    "DESCRIPTIONS": [
+      "#yアーツ をプレイ時、 #yCP #b10 を得て、 カードを #b1 枚引く。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:GladiatorBeltPower": {
+    "NAME": "闘魂ベルト",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #b%d #yCP を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:GladiatorHeadbandPower": {
+    "NAME": "闘魂ハチマキ",
+    "DESCRIPTIONS": [
+      "攻撃をする、または受けるたび、追加で #b%d #yCP を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:NothingnessPower": {
+    "NAME": "虚無",
+    "DESCRIPTIONS": [
+      "戦闘中最初の #yアタック はランダムなデバフを与える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:NewTrailsPower": {
+    "NAME": "軌跡",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #b%d #y気力 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:PaterMaterPower": {
+    "NAME": "パテル＝マテル",
+    "DESCRIPTIONS": [
+      "#y追加HP が0になるとフィールドから離脱する。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:FortunaPower": {
+    "NAME": "フォルトゥナ",
+    "DESCRIPTIONS": [
+      "このターン、 #yアーツ をプレイするたび [E] を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:CalamitySpherePower": {
+    "NAME": "カラミティスフィア",
+    "DESCRIPTIONS": [
+      "#y死の刻印 のダメージが発動するたび、 カードを #b%d 枚引く。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:ZodiacCodePower": {
+    "NAME": "ゾディアックコード",
+    "DESCRIPTIONS": [
+      "#yアーツ をプレイするたび #b%d #yブロック を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:CpRestorePower": {
+    "NAME": "闘魂",
+    "DESCRIPTIONS": [
+      "ターン開始時、 #b30 #yCP を得て #y闘魂 を1失う。闘魂を得る時、他の闘魂とスタックは合算されず同時に複数が有効になる。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:GainDexterityPower": {
+    "NAME": "加速",
+    "DESCRIPTIONS": [
+      "ターン終了時、 #b%d #y敏捷性 を得る。"
+    ]
+  }
+}

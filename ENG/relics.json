@@ -1,0 +1,284 @@
+{
+  "RenneTheAngelOfSlaughter:BlackRagDoll": {
+    "NAME": "黒ウサギぬいぐるみ",
+    "FLAVOR": "昔から傍らにあった人形は、世界を巡る彼女の軌跡を見守ってきた。",
+    "DESCRIPTIONS": [
+      "戦闘開始時、敵全体に #y死の刻印 #b5 を与える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:BloodstainedRagDoll": {
+    "NAME": "血塗れの黒ウサギぬいぐるみ",
+    "FLAVOR": "血に濡れたそれは、まるで世界の闇を吸収したかのようにより暗く陰鬱な姿となった。",
+    "DESCRIPTIONS": [
+      "#g黒ウサギぬいぐるみ を置き換える。 NL ターン開始時、敵全体に #y死の刻印 #b5 を与える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:TacticalOrbment": {
+    "NAME": "戦術オーブメント？",
+    "FLAVOR": "いつの間にかポケットにあったオーブメント。捨てても戻ってくるが、アーツが使えるようになった。",
+    "DESCRIPTIONS": [
+      "ターンごとに1回、属性値を満たす #yアーツ カード1枚を手札に加えることができる。 NL 各 #yアーツ は戦闘中1回まで獲得可能。 NL 戦闘中に #y右クリック で詳細を確認。",
+      "手札に加える #yアーツ を選択",
+      "クリックして #yアーツ を獲得。 NL 現在：",
+      " #r使用不可 ",
+      " #g使用可能 ",
+      "使用統計",
+      "この戦闘で #b%d 回使用。",
+      "未完了",
+      "現在の属性値",
+      "[#966419]地[] : %d NL [#0046DC]水[] : %d NL [#F01E1E]火[] : %d NL [#0AC80A]風[] : %d NL [#6D2C9E]時[] : %d NL [#FFCD0F]空[] : %d NL [#BBBBBB]幻[] : %d"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:ExampleRelic": {
+    "NAME": "サンプルレリック",
+    "FLAVOR": "属性色配置用のレリック",
+    "DESCRIPTIONS": [
+      "色テスト [#966419]地[]  [#0046DC]水[]  [#F01E1E]火[]  [#0AC80A]風[]  [#6D2C9E]時[]  [#FFCD0F]空[]  [#BBBBBB]幻[] "
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Defense1": {
+    "NAME": "防御1",
+    "FLAVOR": "地属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#966419]地[] ×1 NL NL 戦闘開始時、 #y敏捷性 #b1 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Defense2": {
+    "NAME": "防御2",
+    "FLAVOR": "地属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#966419]地[] ×3 NL NL 戦闘開始時、 #y敏捷性 #b2 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:TopazGem": {
+    "NAME": "琥耀珠",
+    "FLAVOR": "地属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#966419]地[] ×5 NL NL 戦闘開始時、 #y敏捷性 #b3 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:SeptiumVein": {
+    "NAME": "耀脈",
+    "FLAVOR": "地属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#966419]地[] ×3- [#0046DC]水[] ×2 NL NL ミニオンではない敵から追加で #b15 #yゴールド を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Intimidation": {
+    "NAME": "虎威",
+    "FLAVOR": "地属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#966419]地[] ×3- [#0AC80A]風[] ×1- [#6D2C9E]時[] ×1 NL NL ボス以外の戦闘開始時、ランダムな敵1体を #y気絶 させる。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Hp1": {
+    "NAME": "HP1",
+    "FLAVOR": "水属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#0046DC]水[] ×1 NL NL 戦闘開始時、 #y追加HP #b5 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Hp2": {
+    "NAME": "HP2",
+    "FLAVOR": "水属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#0046DC]水[] ×3 NL NL 戦闘開始時、 #y追加HP #b10 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:SapphireGem": {
+    "NAME": "蒼耀珠",
+    "FLAVOR": "水属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#0046DC]水[] ×5 NL NL 戦闘開始時、 #y追加HP #b15 を得る。 NL オーブメントから獲得した #yアーツ カードは #yアップグレード される。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:YinYang": {
+    "NAME": "陰陽",
+    "FLAVOR": "水属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#0046DC]水[] ×3- [#FFCD0F]空[] ×1- [#BBBBBB]幻[] ×1 NL NL 戦闘中の回復効果が #b50% 上昇する。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Effort": {
+    "NAME": "丹精",
+    "FLAVOR": "水属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#0046DC]水[] ×3- [#F01E1E]火[] ×1- [#6D2C9E]時[] ×1 NL NL 戦闘開始時、手札に #y錬金術 を加える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Attack1": {
+    "NAME": "攻撃1",
+    "FLAVOR": "火属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#F01E1E]火[] ×1 NL NL 戦闘開始時、 #y筋力 #b1 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Attack2": {
+    "NAME": "攻撃2",
+    "FLAVOR": "火属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#F01E1E]火[] ×3 NL NL 戦闘開始時、 #y筋力 #b2 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:RubyGem": {
+    "NAME": "紅耀珠",
+    "FLAVOR": "火属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#F01E1E]火[] ×5 NL NL 戦闘開始時、 #y筋力 #b4 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Carnage": {
+    "NAME": "修羅",
+    "FLAVOR": "火属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#F01E1E]火[] ×4 NL NL 戦闘開始時、 #y筋力 #b3 を得て、 #y敏捷性 #b3 を失う。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Invigorate": {
+    "NAME": "練気",
+    "FLAVOR": "火属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#F01E1E]火[] ×3- [#0AC80A]風[] ×2 NL NL #yアタック プレイするたび、 #yCP #b10 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Evade1": {
+    "NAME": "回避1",
+    "FLAVOR": "風属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#0AC80A]風[] ×1 NL NL 戦闘開始時、 #yブラー #b1 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Evade2": {
+    "NAME": "回避2",
+    "FLAVOR": "風属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#0AC80A]風[] ×3 NL NL 戦闘開始時、 #yブラー #b3 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:EmeraldGem": {
+    "NAME": "翠耀珠",
+    "FLAVOR": "風属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#0AC80A]風[] ×5 NL NL 戦闘開始時、 #yブラー #b6 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Swiftness": {
+    "NAME": "神速",
+    "FLAVOR": "風属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#0AC80A]風[] ×3- [#6D2C9E]時[] ×2 NL NL 戦闘開始時、手札に #y飛び越え を加える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Scent": {
+    "NAME": "美臭",
+    "FLAVOR": "風属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#0AC80A]風[] ×4- [#966419]地[] ×1- [#F01E1E]火[] ×1- [#0046DC]水[] ×1 NL NL #y？ の部屋は20%の確率で #yエリート との戦闘に変化する。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Action1": {
+    "NAME": "行動力1",
+    "FLAVOR": "時属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#6D2C9E]時[] ×1 NL NL 戦闘開始時、カード #b1 枚を追加で引く。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Action2": {
+    "NAME": "行動力2",
+    "FLAVOR": "時属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#6D2C9E]時[] ×3 NL NL 戦闘開始時、カード #b2 枚を追加で引く。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:OnyxGem": {
+    "NAME": "黒耀珠",
+    "FLAVOR": "時属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#6D2C9E]時[] ×5 NL NL 戦闘開始時、カード #b1 枚を追加で引く。 NL ターン開始時、カードを #b1 枚引く。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Cast": {
+    "NAME": "駆動",
+    "FLAVOR": "時属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#6D2C9E]時[] ×4- [#BBBBBB]幻[] ×1 NL NL 戦術オーブメントから #yアーツ カードを獲得する際の使用制限がなくなる。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Luck": {
+    "NAME": "幸運",
+    "FLAVOR": "時属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#6D2C9E]時[] ×3- [#966419]地[] ×1- [#FFCD0F]空[] ×1 NL NL 敵が10%の確率で追加のレリックを落とす。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:EpCut1": {
+    "NAME": "省EP1",
+    "FLAVOR": "空属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#FFCD0F]空[] ×1 NL NL 戦闘開始時、 #yフリーアタックパワー #b1 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:EpCut2": {
+    "NAME": "省EP2",
+    "FLAVOR": "空属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#FFCD0F]空[] ×3 NL NL 戦闘開始時、 #yフリーアタックパワー #b2 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:GoldGem": {
+    "NAME": "金耀珠",
+    "FLAVOR": "空属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#FFCD0F]空[] ×5 NL NL 戦闘開始時、 #yフリーアタックパワー #b3 を得て、戦闘終了まで、手札のランダムなカード1枚のコストを0にする。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Domination": {
+    "NAME": "覇道",
+    "FLAVOR": "空属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#FFCD0F]空[] ×3- [#F01E1E]火[] ×2 NL NL #yCP を消費するたび、 #y気力 #b4 を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:EagleEye": {
+    "NAME": "鷹目",
+    "FLAVOR": "空属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#FFCD0F]空[] ×3- [#BBBBBB]幻[] ×2 NL NL ターン開始時、 #y占術 #b2 。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Ep1": {
+    "NAME": "EP1",
+    "FLAVOR": "幻属性Lv1クオーツ",
+    "DESCRIPTIONS": [
+      " [#BBBBBB]幻[] ×1 NL NL 戦闘開始時、 [E] を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Ep2": {
+    "NAME": "EP2",
+    "FLAVOR": "幻属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#BBBBBB]幻[] ×3 NL NL 最初の2回のターン開始時、 [E] を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:SilverGem": {
+    "NAME": "銀耀珠",
+    "FLAVOR": "幻属性Lv3クオーツ",
+    "DESCRIPTIONS": [
+      " [#BBBBBB]幻[] ×5 NL NL 最初の3回のターン開始時、 [E] を得る。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Nothingness": {
+    "NAME": "虚無",
+    "FLAVOR": "幻属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#BBBBBB]幻[] ×2- [#6D2C9E]時[] ×1- [#FFCD0F]空[] ×1 NL NL 戦闘中最初の #yアタック はランダムなデバフを与える。"
+    ]
+  },
+  "RenneTheAngelOfSlaughter:Haze": {
+    "NAME": "陽炎",
+    "FLAVOR": "幻属性Lv2クオーツ",
+    "DESCRIPTIONS": [
+      " [#BBBBBB]幻[] ×3- [#966419]地[] ×2 NL NL 戦闘開始時、敵全体が #y筋力 4を失う。"
+    ]
+  }
+}
