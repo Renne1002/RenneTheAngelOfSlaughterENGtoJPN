@@ -298,7 +298,7 @@
   },
   "RenneTheAngelOfSlaughter:TigerHeart": {
     "NAME": "タイガーハート",
-    "DESCRIPTION": "*アタック をプレイ時、 NL ターン終了まで NL 敏捷性 1を得る。 NL *スキル をプレイ時、 NL ターン終了まで  NL 筋力 1を得る。"
+    "DESCRIPTION": "*アタック をプレイ時、 NL 敏捷性 1を得る。 NL *スキル をプレイ時、 NL 筋力 1を得る。 NL ターン終了時、この効果で得た NL 敏捷性 と 筋力 を失う。"
   },
   "RenneTheAngelOfSlaughter:PaterMater": {
     "NAME": "パテル＝マテル",

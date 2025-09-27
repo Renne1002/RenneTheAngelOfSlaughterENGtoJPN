@@ -63,7 +63,7 @@
   "RenneTheAngelOfSlaughter:TigerHeartPower": {
     "NAME": "タイガーハート",
     "DESCRIPTIONS": [
-      "#yアタック をプレイ時、ターン終了まで #y敏捷性 1を得る。 #yスキル をプレイ時、ターン終了まで #y筋力 1を得る。"
+      "#yアタック をプレイ時、 #y敏捷性 1を得る。 #yスキル をプレイ時、 #y筋力 1を得る。 ターン終了時、この効果で得た #y敏捷性 と #y筋力 を失う。"
     ]
   },
   "RenneTheAngelOfSlaughter:CrimsonEyePower": {
@@ -91,7 +91,7 @@
     ]
   },
   "RenneTheAngelOfSlaughter:NewTrailsPower": {
-    "NAME": "軌跡",
+    "NAME": "次の軌跡へ",
     "DESCRIPTIONS": [
       "ターン開始時、 #b%d #y気力 を得る。"
     ]
